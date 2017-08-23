@@ -5175,14 +5175,20 @@
     "fontPref": {
       "prefix": "icon-",
       "metadata": {
-        "fontFamily": "icomoon"
+        "fontFamily": "icomoon",
+        "majorVersion": 1,
+        "minorVersion": 0
       },
       "metrics": {
         "emSize": 1024,
-        "baseline": 14.306640625,
-        "whitespace": 33.447265625
+        "baseline": 6.25,
+        "whitespace": 50
       },
-      "embed": false
+      "embed": false,
+      "showMetrics": true,
+      "showMetadata": true,
+      "showVersion": true,
+      "showSelector": true
     },
     "imagePref": {
       "prefix": "icon-",
